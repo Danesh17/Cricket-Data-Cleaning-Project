@@ -1,1 +1,2 @@
 # Cricket-Data-Cleaning-Project
+In this project, I have used  Pandas to tidy up cricket data obtained directly from ESPN's website. Cricket, a sport with rich information and diverse match details, often requires careful organizing of data to make sense of it. By automating the data extraction process from ESPN's site and then cleaning the gathered data, aimed to create a well-structured dataset ready for further exploration
