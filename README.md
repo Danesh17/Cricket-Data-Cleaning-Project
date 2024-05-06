@@ -3,5 +3,5 @@
 
 - Data_Analysis_part1.ipynb contains Data Analysis to check whether there is a relationship between the career length and batting average of cricket players. I used a linear regression model to test this relationship statistically.
 
--The project resulted in a well-organized and cleaned dataset ready for further analysis. By automating the data cleaning process, we streamlined the workflow and reduced manual effort, enabling faster insights generation and decision-making. The cleaned dataset serves as a valuable resource for cricket enthusiasts, analysts, and researchers interested in exploring trends, patterns, and performance metrics within the sport.
+-The project resulted in a well-organized and cleaned dataset ready for further analysis. By automating the data cleaning process, I streamlined the workflow and reduced manual effort, enabling faster insights generation and decision-making. The cleaned dataset serves as a valuable resource for cricket enthusiasts, analysts, and researchers interested in exploring trends, patterns, and performance metrics within the sport.
 
